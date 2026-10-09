@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "inspector",
+  "versions": [
+    {
+      "commit": "0d2bc1d91ce177ea8d497ee3efe91bcc59e40a1c",
+      "tag": "main",
+      "parsed_at": "2026-10-09T10:08:03.446415+00:00"
+    }
+  ]
+}
